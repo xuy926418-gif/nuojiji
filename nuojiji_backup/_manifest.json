@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791044649322,
+  "timestamp": 1791044655264,
   "appVersion": "6.9.90 (2026.10.03)",
   "tables": [
     "characters",
@@ -216,7 +216,8 @@
     "plugins": true,
     "avatarFrames": true,
     "assets": true,
-    "pluginAssets": true
+    "pluginAssets": true,
+    "pluginData": true
   },
   "inProgress": true
 }
