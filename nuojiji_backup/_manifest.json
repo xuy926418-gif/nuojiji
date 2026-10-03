@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791043998872,
+  "timestamp": 1791044004261,
   "appVersion": "6.9.90 (2026.10.03)",
   "tables": [
     "characters",
@@ -168,7 +168,8 @@
     "shareLinkMeta": true,
     "customGames": true,
     "customGameSaves": true,
-    "customWidgetTemplates": true
+    "customWidgetTemplates": true,
+    "customWidgetState": true
   },
   "inProgress": true
 }
