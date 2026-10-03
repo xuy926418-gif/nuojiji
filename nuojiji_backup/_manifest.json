@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791045691546,
+  "timestamp": 1791045697589,
   "appVersion": "6.9.90 (2026.10.03)",
   "tables": [
     "characters",
@@ -160,7 +160,8 @@
     "goingOutState": true,
     "goingOutAreas": true,
     "goingOutLogs": true,
-    "jiliData": true
+    "jiliData": true,
+    "jiliCreators": true
   },
   "inProgress": true
 }
