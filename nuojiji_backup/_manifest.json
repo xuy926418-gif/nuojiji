@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791046212400,
+  "timestamp": 1791046218650,
   "appVersion": "6.9.90 (2026.10.03)",
   "tables": [
     "characters",
@@ -220,7 +220,8 @@
     "pluginAssets": true,
     "pluginData": true,
     "chatSettingsPresets": true,
-    "charBondSpaces": true
+    "charBondSpaces": true,
+    "charLifePlans": true
   },
   "inProgress": true
 }
