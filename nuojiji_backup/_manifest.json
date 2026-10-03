@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791043137369,
+  "timestamp": 1791043143110,
   "appVersion": "6.9.90 (2026.10.03)",
   "tables": [
     "characters",
@@ -149,7 +149,8 @@
     "forumItems": true,
     "calendarData": true,
     "customCalendars": true,
-    "groupChats": true
+    "groupChats": true,
+    "xinsheng": true
   },
   "inProgress": true
 }
