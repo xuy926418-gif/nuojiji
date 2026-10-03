@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791044268590,
+  "timestamp": 1791044279855,
   "appVersion": "6.9.90 (2026.10.03)",
   "tables": [
     "characters",
@@ -200,7 +200,8 @@
     "studyTalks": true,
     "studyOutlines": true,
     "studyQuizzes": true,
-    "studyGoals": true
+    "studyGoals": true,
+    "studyExams": true
   },
   "inProgress": true
 }
