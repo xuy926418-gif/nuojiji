@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791043986904,
+  "timestamp": 1791043988729,
   "appVersion": "6.9.90 (2026.10.03)",
   "tables": [
     "characters",
@@ -117,8 +117,7 @@
     "stickers": 10,
     "messages": 35,
     "roleStickers": 10,
-    "imageStore": 25,
-    "stickerStore": 11
+    "imageStore": 25
   },
   "completedTables": {
     "characters": true,
@@ -155,18 +154,7 @@
     "xinsheng": true,
     "xinshengRounds": true,
     "pomodoroSessions": true,
-    "couplesData": true,
-    "quickReplies": true,
-    "goingOutState": true,
-    "goingOutAreas": true,
-    "goingOutLogs": true,
-    "jiliData": true,
-    "jiliCreators": true,
-    "jiliPosts": true,
-    "jiliDMMessages": true,
-    "mapRasterCache": true,
-    "shareLinkMeta": true,
-    "customGames": true
+    "couplesData": true
   },
   "inProgress": true
 }
