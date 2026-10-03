@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791043038832,
+  "timestamp": 1791043047054,
   "appVersion": "6.9.90 (2026.10.03)",
   "tables": [
     "characters",
@@ -131,7 +131,8 @@
     "memory": true,
     "summaryEntries": true,
     "callLogs": true,
-    "tmSessions": true
+    "tmSessions": true,
+    "tmStories": true
   },
   "inProgress": true
 }
